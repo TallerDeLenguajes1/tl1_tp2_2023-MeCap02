@@ -1,1 +1,7 @@
 # tp2
+
+f )_El archivo tp2_1_2.c no se podia ver dentro de la carpeta porque este archivo se encontraba alojado dentro de otro branch de la carpeta, para ver este archivo hay que cambiar con Git el branch que deseamos ver
+
+La diferencia que se puede ver ahora es como el branch Opcion_2 efectivamente se separa de la rama principal de nuestro Git
+
+Lo que se puede ver en el ultimo gitk --all es que la rama Opcion_2 se combina con la rama principal y ahora todos los archivos aparecen dentro de la carpeta de tp2
